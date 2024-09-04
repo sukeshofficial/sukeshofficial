@@ -23,7 +23,7 @@
 
 💻 **Languages I Code In:**
 
-|<img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="HTML" width="50" />|<img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="HTML" width="50" />|<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Profile Picture" width="50"/>| <img src="https://cdn-icons-png.flaticon.com/512/186/186320.png" alt="Profile Picture" width="50"/>|<img src="[https://cdn-icons-png.flaticon.com/512/5968/5968242.png](https://cdn-icons-png.flaticon.com/512/186/186319.png)" alt="Profile Picture" width="50"/>|
+|<img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="HTML" width="50" />|<img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="HTML" width="50" />|<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Profile Picture" width="50"/>| <img src="https://cdn-icons-png.flaticon.com/512/186/186320.png" alt="Profile Picture" width="50"/>|<img src="https://cdn-icons-png.flaticon.com/512/186/186319.png" alt="Profile Picture" width="50"/>|
 |--|--|--|--|--|
 
 <hr>
