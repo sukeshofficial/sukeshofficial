@@ -17,7 +17,7 @@
 
 🌱 **Current Focus:**
 - Mastering **development** and **enhancing my skills** in Java, C++ and Python.
-- Participating in **Smart INDIA Hackathon** 2024 with a focus on Travel and Tourism.
+- Leveraging my **DSA** concepts by solving problems.
 
 <hr>
 
