@@ -1,4 +1,3 @@
-
 # 👋 Hey there! I'm Sukesh
 
 🚀 **Aspiring Developer | Problem Solver | Tech Enthusiast**
@@ -18,6 +17,7 @@
 🌱 **Current Focus:**
 - Mastering **development** and **enhancing my skills** in Java, C++ and Python.
 - Leveraging my **DSA** concepts by solving problems.
+- Learning **Ethical Hacking** for safer digital environment.
 
 <hr>
 
