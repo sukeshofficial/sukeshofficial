@@ -1,15 +1,15 @@
 # 👋 Hey there! I'm Sukesh
 
 🚀 **Aspiring Developer | Problem Solver | Tech Enthusiast | Internet Made Coder**
-- A _passionate developer_ currently studying in my _2nd year_ at **Sethu Institute of Technology**. 
-- _Currently learning_ **Data structures and Algorithms**, and **object-oriented programming**.
-- On a _mission_ to **crack top-tier product-based companies**. 
+- _Currently learning_ **Data structures and Algorithms 📅, development 🏗️**.
+- On a _mission_ to **crack top-tier product-based companies ✨**. 
+- A _passionate developer_ currently studying in my _2nd year_ at **Sethu Institute of Technology 🏫**. 
 
 <hr>
 
 💡 **What I Do:**
-- Building innovative **projects**, from some problems I face with existing apps.
-- I try to **think of solutions** to problems and try to implement them by creating web pages / app *(Currently I don't know to develop)*.
+- Building innovative **projects 📰**, from some problems I face with existing apps.
+- I try to **think of solutions ✅** to problems and try to implement them by creating web pages / app.
 - Contributing to **hackathons** and collaborating with like-minded peers to create impactful solutions.
 
 <hr>
@@ -17,7 +17,7 @@
 🌱 **Current Focus:**
 - Mastering **development** and **enhancing my skills** in Java, C++ and Python.
 - Leveraging my **DSA** concepts by solving problems.
-- Learning **Ethical Hacking** for safer digital environment.
+- Learning **Full-stack** to gain knowledge on complete app building process.
 
 <hr>
 
