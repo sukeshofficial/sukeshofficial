@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Sukesh
+|# 👋 Hey there! I'm Sukesh
 
 🚀 **Aspiring Developer | Problem Solver | Tech Enthusiast | Internet Made Coder**
 - _Currently learning_ **Data structures and Algorithms 📅, development 🏗️**.
@@ -36,7 +36,8 @@ I'm always up for a challenge.
 
 <hr>
 
-Let's connect and create something awesome together!
+Let's connect and create something awesome together!|
+|--|
 
 <!---
 sukeshofficial/sukeshofficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
