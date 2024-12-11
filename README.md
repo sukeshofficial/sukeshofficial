@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Sukesh
 
-|🚀 **Aspiring Developer | Problem Solver | Tech Enthusiast | Internet Made Coder**|
+🚀 **Aspiring Developer | Problem Solver | Tech Enthusiast | Internet Made Coder**
 |--|
 - _Currently learning_ **Data structures and Algorithms 📅, development 🏗️**.
 - On a _mission_ to **crack top-tier product-based companies ✨**. 
