@@ -8,7 +8,7 @@
 
 <hr>
 
-|💡 **What I Do:**|
+|💡 **What I Do**|
 |--|
 - Building innovative **projects 📰**, from some problems I face with existing apps.
 - I try to **think of solutions ✅** to problems and try to implement them by creating web pages / app.
@@ -16,7 +16,7 @@
 
 <hr>
 
-|🌱 **Current Focus:**|
+|🌱 **Current Focus**|
 |--|
 - Mastering **development** and **enhancing my skills** in Java, C++ and Python.
 - Leveraging my **DSA** concepts by solving problems.
@@ -24,7 +24,7 @@
 
 <hr>
 
-|💻 **Languages I Code In:**|
+|💻 **Languages I Code In**|
 |--|
 
 |<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Profile Picture" width="50"/>|<img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="HTML" width="50" />|<img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="HTML" width="50" />|
@@ -32,7 +32,7 @@
 
 <hr>
 
-|🎯 **My Goal:**|
+|🎯 **My Goal**|
 |--|
 - To **leverage my skills** and passion for technology to **build solutions** that make a difference. 
 - Whether it's crafting **efficient algorithms**, designing **user-friendly interfaces**, or **exploring** the latest in AI.
