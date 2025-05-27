@@ -71,6 +71,14 @@ Let’s connect and build something impactful together!
 |:--:|:--:|:--:|
 | <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="40"/> | <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="40"/> | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40"/> |
 
+---
+
+## 📬 Let's Connect
+
+I'm always open to collaborating on exciting projects or discussing new opportunities.
+
+- 📧 Email: [sukesh.official.2006@gmail.com](mailto:sukesh.official.2006@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/sukeshofficial](https://linkedin.com/in/sukeshofficial)
 
 ---
 
