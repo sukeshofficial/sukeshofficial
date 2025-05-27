@@ -78,7 +78,7 @@ Let’s connect and build something impactful together!
 I'm always open to collaborating on exciting projects or discussing new opportunities.
 
 - 📧 Email: [sukesh.official.2006@gmail.com](mailto:sukesh.official.2006@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/sukeshofficial](https://linkedin.com/in/sukeshofficial)
+- 💼 LinkedIn: [linkedin.com/in/sukeshd]([https://linkedin.com/in/sukeshofficial](https://www.linkedin.com/in/sukeshd/))
 
 ---
 
