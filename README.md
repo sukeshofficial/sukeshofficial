@@ -67,13 +67,10 @@ Let’s connect and build something impactful together!
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="40" height="40" alt="C++" />
-  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="40" height="40" alt="Java" />
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40" height="40" alt="Python" />
-</p>
-
+| C++ | Java | Python |
 |:--:|:--:|:--:|
+| <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="40"/> | <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="40"/> | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40"/> |
+
 
 ---
 
