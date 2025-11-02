@@ -51,8 +51,8 @@
 
 ## 🌱 Current Learning Focus
 
-- 🟢 **DSA** using Striver’s A2Z Sheet  
-- 🟢 **Java**, **C++**, **Python**  
+- 🟢 **DSA**
+- 🟢 **Python**, **Java**, **C++**  
 - 🟢 **Full-Stack Web Development (MERN)**  
 - 🟢 **AI Tools**, **LangChain**, **RAG**, **OpenRouter**, **Qdrant**
 
