@@ -79,7 +79,7 @@ I'm always open to collaborating on exciting projects or discussing new opportun
 
 | G-Mail | LinkedIn |
 |:--:|:--:|
-| [<img src="[https://cdn-icons-png.flaticon.com/512/6132/6132222.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Ficon%2Fgoogle-mail-gmail-logo%2F159346&psig=AOvVaw206XxfTSJaTNuuhkygHRAD&ust=1762142150658000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJDEzZjJ0pADFQAAAAAdAAAAABAE)" width="40"/>](mailto:sukesh.official.2006@gmail.com)|  [<img src="https://pngimg.com/d/linkedIn_PNG34.png" width="40"/>](https://www.linkedin.com/in/sukeshd/) |
+| [<img src="blob:chrome-untrusted://image-magnify/f02be920-a627-4647-9ab8-eb223e064575" width="40"/>](mailto:sukesh.official.2006@gmail.com)|  [<img src="blob:chrome-untrusted://image-magnify/ccb2e75e-dcd8-4dd4-b3aa-6bba6aadb0a4" width="40"/>](https://www.linkedin.com/in/sukeshd/) |
 
 ---
 
