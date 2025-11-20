@@ -1,142 +1,88 @@
-<!-- ========================= 📌 TOP BANNER ========================= -->
+# 👋 Hey there! I'm Sukesh
 
-<p align="center">
-  <img src="https://i.imgur.com/Z9Y7FJp.gif" width="900" alt="Welcome Banner">
-</p>
+🚀 **Aspiring Developer ~ Problem Solver ~ Tech Enthusiast ~ Internet Made Coder**
 
-<h1 align="center">🌟 Hey, I'm <span style="color:#00eaff;">Sukesh</span> — Developer | Problem Solver | Tech Explorer</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;AI+%26+Full+Stack+Developer;Internet-Made+Coder;Always+Learning+Always+Building+🚀" />
-</p>
+> From not knowing what a `print()` statement is… to now solving **DSA problems** and building **real-world AI tools** — my journey has just begun!  
 
 ---
 
-## 🚀 About Me  
-
-From not knowing what a `print()` statement is… to now building  
-**AI agents**, **full-stack apps**, and **automation tools** — the journey is ON.  
-
-🎓 3rd Year CSE @ **Sethu Institute of Technology**  
-🏆 3 Hackathons → **Won all 3**  
-💡 I convert real-world problems into working apps.
+## 📚 Currently Pursuing
+🎓 3rd Year B.E. in Computer Science  
+🏫 **Sethu Institute of Technology**
 
 ---
 
-# 🛠️ Tech Stack  
+## 💡 What I Do
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css,tailwind,react,nodejs,express,mongodb,postgres,git,github,linux,fastapi,vscode" />
-</p>
-
----
-
-# 🧠 What I'm Good At  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Agents-00C853?style=for-the-badge&logo=robotframework&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG%20Applications-1976D2?style=for-the-badge&logo=azuredevops&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MERN%20Stack-00E676?style=for-the-badge&logo=react&logoColor=black"/>
-</p>
+- Build innovative, real-world projects using AI, automation, and full-stack tools.
+- Think of **practical problems** and turn them into working apps using **Streamlit**, **JavaScript**, and **Python**.
+- Actively participate in **hackathons** and **coding events**, winning prizes and experience along the way.
 
 ---
 
-# 🧩 Featured Projects (with GIF Previews)
+## 🛠️ Projects I’m Proud Of
 
-### 🤖 **AI Code Agent**
-Automation + Code Generation + GitHub Autopush  
-<p align="center">
-  <img src="https://i.imgur.com/cQeS7gZ.gif" width="700">
-</p>
-
----
-
-### 🌍 **Roamio – Travel Assistant**
-Recommends spots, alerts before destination, filters for budget  
-<p align="center">
-  <img src="https://i.imgur.com/j98cE5B.gif" width="700">
-</p>
+- 🤖 **AI Code Agent** – One-command code generation & GitHub auto-push using GPT-4o-mini + OpenRouter.
+- 🌍 **Roamio (Roam-io)** – Travel assistant that alerts users before reaching a destination and recommends budget-friendly restaurants, famous spots, and local shops with filters.
+- 📩 **Slack MCP Agent** – Automates Slack interactions using **Model Context Protocol (MCP)**.
+- ☁️ **Weather MCP** – Instantly fetches weather using contextual model-based querying.
+- 🎙️ **Speech-to-Text Tool** – Converts your voice into clean, formatted text using Python.
+- ⌨️ **Keyboard Slip Decoder** – Corrects typing errors from finger misalignment.
+- ⚙️ **Streamlit Utilities** – Python web dashboards for fast prototyping.
 
 ---
 
-### 🔧 **Slack MCP Agent**
-MCP-based automated Slack workflow  
-<p align="center">
-  <img src="https://i.imgur.com/NynpjjE.gif" width="700">
-</p>
+## 🧑‍💻 Internships & Experience
+
+- 💼 **Cybernaut LLP** – Hands-on experience in real-world software development.  
+- 💼 **Temprl Business Pvt Ltd** – Building internal tools and automation.  
+- 🚀 **TARCIN Robotics LLP** – Excited to begin this next chapter soon!
 
 ---
 
-# 🏆 Achievements
+## 🏆 Achievements
 
-| Event | Award |
-|-------|-------|
-| MEPCO Hackathon | 🥇 1st Prize |
-| Trinity Hack | 🥈 3rd Prize |
-| ERUPTA Coding Event | 🥇 1st Prize |
-
-> Participated in **3 events** → Won **all 3** 🤝🔥
+- 🥇 **1st Prize** – MEPCO Hackathon  
+- 🥈 **3rd Prize** – Trinity Hack  
+- 🥇 **1st Prize** – ERUPTA Coding Event  
+✅ Participated in just **3 events** — and won **prizes in all 3!**
 
 ---
 
-# 📈 GitHub Stats
+## 🌱 Current Learning Focus
 
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=sukeshofficial&show_icons=true&theme=tokyonight" height="165" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukeshofficial&layout=compact&theme=tokyonight" height="165" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sukeshofficial&theme=tokyonight" />
-
-</div>
+- 🟢 **DSA**
+- 🟢 **Python**, **Java**, **C++**  
+- 🟢 **Full-Stack Web Development (MERN)**  
+- 🟢 **AI Tools**, **LangChain**, **RAG**, **OpenRouter**, **Qdrant**
 
 ---
 
-# 🐍 Contribution Snake Animation  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/<YOUR-USERNAME>/<YOUR-USERNAME>/output/snake.svg" alt="snake gif">
-</p>
+## 💬 Let's Collaborate!
 
-👉 *Replace `<YOUR-USERNAME>` with `sukeshofficial` once you enable the GitHub Action.*
+- Passionate about code? AI? Real-world problems?  
+Let’s connect and build something impactful together!
 
 ---
 
-# 👀 Profile Views  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sukeshofficial&label=Visitors&color=brightgreen&style=for-the-badge" />
-</p>
+## 🛠️ Tech Stack
+
+| C++ | Java | Python |
+|:--:|:--:|:--:|
+| <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="40"/> | <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="40"/> | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40"/> |
 
 ---
 
-# 🌱 Currently Learning
+## 📬 Let's Connect
 
-- DSA  
-- MERN Stack  
-- LangChain, Qdrant, RAG  
-- Python, Java, C++  
-- Agentic AI workflows  
+I'm always open to collaborating on exciting projects or discussing new opportunities.
 
+| G-Mail | LinkedIn |
+|:--:|:--:|
+| [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40"/>](mailto:sukesh.official.2006@gmail.com) | [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/>](https://www.linkedin.com/in/sukeshd/) |
 ---
 
-# 📬 Connect With Me  
+<!---
+sukeshofficial/sukeshofficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--->
 
-<p align="center">
-  <a href="mailto:sukesh.official.2006@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sukeshd/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/sukeshofficial">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  ⭐ *If you like my work, consider starring some repos!* ⭐
-</p>
