@@ -35,8 +35,7 @@
 ## 🧑‍💻 Internships & Experience
 
 - 💼 **Cybernaut LLP** – Hands-on experience in real-world software development.  
-- 💼 **Temprl Business Pvt Ltd** – Building internal tools and automation.  
-- 🚀 **TARCIN Robotics LLP** – Excited to begin this next chapter soon!
+- 💼 **Temprl Business Pvt Ltd** – Building internal tools and automation. 
 
 ---
 
