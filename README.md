@@ -1,87 +1,151 @@
-# 👋 Hey there! I'm Sukesh
+# Hi, I’m Sukesh 👋
 
-🚀 **Aspiring Developer ~ Problem Solver ~ Tech Enthusiast ~ Internet Made Coder**
+<div align="center">
 
-> From not knowing what a `print()` statement is… to now solving **DSA problems** and building **real-world AI tools** — my journey has just begun!  
+### Aspiring Software Engineer | AI Builder | Problem Solver
 
----
+I enjoy turning ideas into useful products — especially where **AI**, **automation**, and **full-stack development** meet.
 
-## 📚 Currently Pursuing
-🎓 3rd Year B.E. in Computer Science  
-🏫 **Sethu Institute of Technology**
+</div>
 
 ---
 
-## 💡 What I Do
+## About Me
 
-- Build innovative, real-world projects using AI, automation, and full-stack tools.
-- Think of **practical problems** and turn them into working apps using **Streamlit**, **JavaScript**, and **Python**.
-- Actively participate in **hackathons** and **coding events**, winning prizes and experience along the way.
+I’m a **3rd-year B.E. Computer Science student** at **Sethu Institute of Technology** with a strong interest in building practical, real-world software.
 
----
-
-## 🛠️ Projects I’m Proud Of
-
-- 🤖 **AI Code Agent** – One-command code generation & GitHub auto-push using GPT-4o-mini + OpenRouter.
-- 🌍 **Roamio (Roam-io)** – Travel assistant that alerts users before reaching a destination and recommends budget-friendly restaurants, famous spots, and local shops with filters.
-- 📩 **Slack MCP Agent** – Automates Slack interactions using **Model Context Protocol (MCP)**.
-- ☁️ **Weather MCP** – Instantly fetches weather using contextual model-based querying.
-- 🎙️ **Speech-to-Text Tool** – Converts your voice into clean, formatted text using Python.
-- ⌨️ **Keyboard Slip Decoder** – Corrects typing errors from finger misalignment.
-- ⚙️ **Streamlit Utilities** – Python web dashboards for fast prototyping.
+My journey started with the basics, and today I’m actively working on **DSA**, **AI-powered tools**, and **full-stack projects**. I like learning by building, and I enjoy creating applications that solve real problems.
 
 ---
 
-## 🧑‍💻 Internships & Experience
+## What I’m Working On
 
-- 💼 **Cybernaut LLP** – Hands-on experience in real-world software development.  
-- 💼 **Temprl Business Pvt Ltd** – Building internal tools and automation. 
-
----
-
-## 🏆 Achievements
-
-- 🥇 **1st Prize** – MEPCO Hackathon  
-- 🥈 **3rd Prize** – Trinity Hack  
-- 🥇 **1st Prize** – ERUPTA Coding Event  
-✅ Participated in just **3 events** — and won **prizes in all 3!**
+* **DSA practice** to strengthen problem-solving and coding fundamentals
+* **AI tools and agents** using Python, OpenRouter, LangChain, RAG, and Qdrant
+* **Full-stack development** with JavaScript and the MERN stack
+* **Automation and productivity tools** that make workflows simpler and faster
 
 ---
 
-## 🌱 Current Learning Focus
+## Featured Projects
 
-- 🟢 **DSA**
-- 🟢 **Python**, **Java**, **C++**  
-- 🟢 **Full-Stack Web Development (MERN)**  
-- 🟢 **AI Tools**, **LangChain**, **RAG**, **OpenRouter**, **Qdrant**
+### 🤖 AI Code Agent
+
+A one-command code generation and GitHub auto-push workflow built with GPT-4o-mini and OpenRouter.
+
+### 🌍 Roamio
+
+A travel assistant that helps users before they reach a destination and suggests budget-friendly restaurants, famous places, and local shops.
+
+### 📩 Slack MCP Agent
+
+An automation agent that interacts with Slack using Model Context Protocol (MCP).
+
+### ☁️ Weather MCP
+
+A contextual weather tool for quick and accurate weather retrieval.
+
+### 🎙️ Speech-to-Text Tool
+
+A Python-based utility that converts voice input into clean, readable text.
+
+### ⌨️ Keyboard Slip Decoder
+
+A smart correction tool that helps fix typing errors caused by finger misalignment.
+
+### ⚙️ Streamlit Utilities
+
+A collection of lightweight dashboards and tools for fast prototyping.
 
 ---
 
-## 💬 Let's Collaborate!
+## Experience
 
-- Passionate about code? AI? Real-world problems?  
-Let’s connect and build something impactful together!
+### Cybernaut LLP
 
----
+Hands-on exposure to real-world software development and practical problem-solving.
 
-## 🛠️ Tech Stack
+### Temprl Business Pvt Ltd
 
-| C++ | Java | Python |
-|:--:|:--:|:--:|
-| <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="40"/> | <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="40"/> | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40"/> |
+Worked on internal tools and automation-focused development tasks.
 
 ---
 
-## 📬 Let's Connect
+## Achievements
 
-I'm always open to collaborating on exciting projects or discussing new opportunities.
+* 🥇 **1st Prize** — MEPCO Hackathon
+* 🥈 **3rd Prize** — Trinity Hack
+* 🥇 **1st Prize** — ERUPTA Coding Event
 
-| G-Mail | LinkedIn |
-|:--:|:--:|
-| [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40"/>](mailto:sukesh.official.2006@gmail.com) | [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/>](https://www.linkedin.com/in/sukeshd/) |
+I have participated in **3 events** and won awards in all 3 — an experience that gave me confidence, momentum, and a stronger love for building.
+
 ---
 
-<!---
-sukeshofficial/sukeshofficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
+## Current Learning Focus
 
+* Data Structures & Algorithms
+* Python, Java, and C++
+* Full-Stack Web Development (MERN)
+* AI tools, prompt engineering, LangChain, RAG, OpenRouter, and Qdrant
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="40" alt="C++" /><br/>
+      C++
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="40" alt="Java" /><br/>
+      Java
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40" alt="Python" /><br/>
+      Python
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="40" alt="HTML" /><br/>
+      HTML
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="40" alt="CSS" /><br/>
+      CSS
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="40" alt="JavaScript" /><br/>
+      JavaScript
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## Let’s Connect
+
+I’m always open to collaboration, internships, and opportunities to build something meaningful.
+
+<div align="center">
+
+<a href="mailto:sukesh.official.2006@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://www.linkedin.com/in/sukeshd/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+**Building with curiosity. Growing with every project.**
+
+</div>
