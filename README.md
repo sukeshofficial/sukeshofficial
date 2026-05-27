@@ -12,7 +12,7 @@ I build real-world products with **LLMs, backend systems, automation, and full-s
 
 ---
 
-## ✦ What I build
+## ✦ What I Build
 
 I like working at the intersection of:
 
@@ -33,73 +33,103 @@ I learn best by building. My work often explores **RAG pipelines, agentic workfl
 ---
 
 ## Currently Focused On
-• LLM-powered applications
-• RAG and Agentic AI
-• Scalable backend architecture
-• Shipping products with Python, FastAPI, and MERN
 
-Featured Projects
-🤖 DevProfile Generator
+- LLM-powered applications
+- RAG and Agentic AI
+- Scalable backend architecture
+- Shipping products with Python, FastAPI, and MERN
 
-An LLM-powered system that analyzes GitHub repositories to generate ATS-optimized resumes.
-Tech: Python • FastAPI • GitHub API • OpenRouter API • PostgreSQL • Tailwind
+---
 
-🚀 FGrow CRM
+## Featured Projects
 
-A multi-tenant CRM and workflow automation platform with RBAC, tenant onboarding, billing, and document workflows.
-Tech: MERN • Node.js • Express.js • MongoDB • Tailwind CSS • JWT • Razorpay
+### 🤖 DevProfile Generator
 
-🧠 AI Coding Agent
+An LLM-powered system that analyzes GitHub repositories to generate ATS-optimized resumes.  
+**Tech:** Python • FastAPI • GitHub API • OpenRouter API • PostgreSQL • Tailwind
 
-A multi-agent LLM system for code generation, debugging, refactoring, and automated GitHub workflows.
-Tech: Python • OpenRouter API • GitHub API • Agent Orchestration
+### 🚀 FGrow CRM
 
-⚡ Productivity Automation Platform
+A multi-tenant CRM and workflow automation platform with RBAC, tenant onboarding, billing, and document workflows.  
+**Tech:** MERN • Node.js • Express.js • MongoDB • Tailwind CSS • JWT • Razorpay
 
-An automation platform that syncs ClickUp and Jira tasks with AI-powered Slack workflows.
-Tech: Python • FastAPI • Slack API • ClickUp API • Jira API • Claude • REST APIs
+### 🧠 AI Coding Agent
 
-🧩 Google Blockly Agent
+A multi-agent LLM system for code generation, debugging, refactoring, and automated GitHub workflows.  
+**Tech:** Python • OpenRouter API • GitHub API • Agent Orchestration
 
-An AI pipeline that converts natural language into Blockly XML and executable Python with validation and safe execution.
-Tech: Python • JavaScript • Google Blockly • Playwright • LLMs • OpenRouter API
+### ⚡ Productivity Automation Platform
 
-Experience
-Temprl Business Pvt Ltd
+An automation platform that syncs ClickUp and Jira tasks with AI-powered Slack workflows.  
+**Tech:** Python • FastAPI • Slack API • ClickUp API • Jira API • Claude • REST APIs
 
-May 2025 – August 2025
+### 🧩 Google Blockly Agent
 
-Built backend workflow systems and microservice-based tools that reduced manual operations and improved internal efficiency by around 40%.
+An AI pipeline that converts natural language into Blockly XML and executable Python with validation and safe execution.  
+**Tech:** Python • JavaScript • Google Blockly • Playwright • LLMs • OpenRouter API
 
-Achievements
-🏆 Top 5 team in a national-level ODOO Hackathon for building an E-Learning platform in 24 hours
-🥇 1st Place — MEPCO Hackathon
-🥇 1st Place — ERUPTA Coding Contest
-🥉 3rd Place — Trinity Hackathon
-🚀 Top 5 team in Smart India Hackathon 2025
-Tech Stack
-<details> <summary><b>Languages</b></summary>
+---
 
-Python • JavaScript • TypeScript • Java
+## Experience
 
-</details> <details> <summary><b>AI / LLMs</b></summary>
+### Temprl Business Pvt Ltd
 
-RAG • LangChain • Agentic AI • OpenRouter • Claude • Vector Databases • Embeddings • Unsloth
+**May 2025 – August 2025**
 
-</details> <details> <summary><b>Backend / Frontend</b></summary>
+Built backend workflow systems and microservice-based tools that reduced manual operations and improved internal efficiency by around **40%**.
 
-FastAPI • REST APIs • Microservices • Authentication • Streamlit • React.js • Next.js • Tailwind CSS
+---
 
-</details> <details> <summary><b>Tools / Databases</b></summary>
+## Achievements
 
-PostgreSQL • MongoDB • Git • GitHub • Linux • CI/CD • API Testing
+- 🏆 Top 5 team in a national-level ODOO Hackathon for building an E-Learning platform in 24 hours
+- 🥇 1st Place — MEPCO Hackathon
+- 🥇 1st Place — ERUPTA Coding Contest
+- 🥉 3rd Place — Trinity Hackathon
+- 🚀 Top 5 team in Smart India Hackathon 2025
+
+---
+
+## Tech Stack
+
+<details>
+  <summary><b>Languages</b></summary>
+
+  Python • JavaScript • TypeScript • Java
 
 </details>
-A Few Things I Value
-Building over overthinking
-Clarity over complexity
-Practical systems over flashy demos
-Consistent progress over motivation
+
+<details>
+  <summary><b>AI / LLMs</b></summary>
+
+  RAG • LangChain • Agentic AI • OpenRouter • Claude • Vector Databases • Embeddings • Unsloth
+
+</details>
+
+<details>
+  <summary><b>Backend / Frontend</b></summary>
+
+  FastAPI • REST APIs • Microservices • Authentication • Streamlit • React.js • Next.js • Tailwind CSS
+
+</details>
+
+<details>
+  <summary><b>Tools / Databases</b></summary>
+
+  PostgreSQL • MongoDB • Git • GitHub • Linux • CI/CD • API Testing
+
+</details>
+
+---
+
+## A Few Things I Value
+
+- Building over overthinking
+- Clarity over complexity
+- Practical systems over flashy demos
+- Consistent progress over motivation
+
+---
 
 ## 🤝 Connect With Me
 
@@ -118,5 +148,7 @@ Consistent progress over motivation
 </div>
 
 <div align="center">
-  Building with curiosity. Shipping with purpose.
+
+Building with curiosity. Shipping with purpose.
+
 </div>
