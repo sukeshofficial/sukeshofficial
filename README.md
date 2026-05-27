@@ -4,10 +4,10 @@
 
 ### Builder • AI Engineer • Future Product Engineer
 
-I build real-world tools with **AI, automation, and full-stack engineering** — turning ideas into useful products.
+I build real-world tools with **LLMs, backend systems, automation, and full-stack engineering** — turning ideas into useful products.
 
 ```text
-Currently building in public • learning fast • shipping projects
+AI/ML Engineer | LLM Applications | Backend Systems
 ```
 
 </div>
@@ -16,71 +16,73 @@ Currently building in public • learning fast • shipping projects
 
 ## 👨‍💻 About Me
 
-I’m a **3rd-year B.E. Computer Science student** at **Sethu Institute of Technology**.
+I’m a **3rd-year B.E. Computer Science student** at **Sethu Institute of Technology** with a strong interest in building intelligent, practical, and scalable software.
 
-I enjoy building things that solve practical problems, especially in the areas of **AI**, **automation**, and **product development**. My journey has been about learning by doing — from writing my first lines of code to building tools that actually help people.
+My focus is on the intersection of **AI, backend engineering, and product development**. I enjoy working on systems that use **LLMs, RAG pipelines, agentic workflows, and automation** to solve real problems.
 
-I like working at the intersection of **software engineering + AI + product thinking**, and I’m constantly improving through projects, problem-solving, and hands-on experimentation.
+I like learning by building, shipping projects, and improving through hands-on execution.
 
 ---
 
 ## 🎯 Current Focus
 
-* Strengthening **DSA** and core problem-solving
-* Building with **AI/ML** and **LLM-based systems**
-* Learning and shipping with the **MERN stack**
-* Exploring **RAG** workflows and **agentic systems**
-* Thinking more like a **product engineer** while building
+* Strengthening **DSA** and problem-solving fundamentals
+* Building **LLM-powered applications** and AI systems
+* Exploring **RAG**, **Agentic AI**, and **multi-agent workflows**
+* Learning scalable **backend architecture** and product engineering
+* Shipping practical tools using **Python**, **FastAPI**, and **MERN**
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Code Agent
+### 🤖 DevProfile Generator
 
-A one-command code generation and GitHub auto-push workflow powered by **GPT-4o-mini** and **OpenRouter**.
+An **LLM-powered system** that analyzes GitHub repositories to generate **ATS-optimized resumes**.
 
-**Tech:** Python • OpenRouter • GitHub API • Automation
+**What it solves:** Converts GitHub work into a professional resume by extracting skills and matching roles.
 
----
-
-### 🌍 Roamio
-
-A travel assistant that alerts users before reaching a destination and suggests **budget-friendly restaurants, famous places, and local shops**.
-
-**Tech:** AI • Travel Logic • Filters • Automation
+**Tech:** Python • FastAPI • GitHub API • OpenRouter API • PostgreSQL • Tailwind
 
 ---
 
-### 📩 Slack MCP Agent
+### 🚀 FGrow CRM
 
-An automation agent that interacts with Slack using **Model Context Protocol (MCP)**.
+A scalable **multi-tenant CRM and workflow automation platform** with RBAC, tenant onboarding, billing, and document workflows.
 
-**Tech:** MCP • Python • Slack Automation
+**What it solves:** Helps businesses manage clients, services, approvals, and recurring operations efficiently.
 
----
-
-### ☁️ Weather MCP
-
-A contextual weather utility that fetches weather data through a model-based workflow.
-
-**Tech:** MCP • APIs • Python
+**Tech:** MERN • Node.js • Express.js • MongoDB • Tailwind CSS • JWT • Razorpay
 
 ---
 
-### 🎙️ Speech-to-Text Tool
+### 🧠 AI Coding Agent
 
-A Python-based tool that converts spoken input into clean, readable text.
+A **multi-agent LLM system** for code generation, debugging, refactoring, and automated GitHub workflows.
 
-**Tech:** Python • Speech Processing • Text Formatting
+**What it solves:** Improves developer productivity through intelligent coding automation.
+
+**Tech:** Python • OpenRouter API • GitHub API • Agent Orchestration
 
 ---
 
-### ⌨️ Keyboard Slip Decoder
+### ⚡ Productivity Automation Platform
 
-A smart correction utility that fixes typing errors caused by finger misalignment.
+An automation platform that syncs **ClickUp** and **Jira** tasks with AI-powered **Slack** workflows.
 
-**Tech:** Python • Text Processing • Heuristics
+**What it solves:** Reduces manual coordination work with reminders, summaries, and task updates.
+
+**Tech:** Python • FastAPI • Slack API • ClickUp API • Jira API • Claude • REST APIs
+
+---
+
+### 🧩 Google Blockly Agent
+
+An AI pipeline that converts **natural language into Blockly XML and executable Python** with validation and safe execution.
+
+**What it solves:** Makes code generation more reliable by adding execution checks and validation.
+
+**Tech:** Python • JavaScript • Google Blockly • Playwright • LLMs • OpenRouter API
 
 ---
 
@@ -90,35 +92,48 @@ A smart correction utility that fixes typing errors caused by finger misalignmen
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
-### AI / ML
+### AI / LLMs
 
 <p align="left">
   <img src="https://img.shields.io/badge/RAG-0F172A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OpenRouter-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Qdrant-DC2626?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MCP-334155?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Claude-3B82F6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vector%20Databases-DC2626?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Embeddings-334155?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Unsloth-4B5563?style=for-the-badge" />
 </p>
 
 ### Backend / App Development
 
 <p align="left">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Microservices-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Authentication-1D4ED8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CRUD%20APIs-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/APIs-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
-### Tools
+### Databases & Tools
 
 <p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API%20Testing-111827?style=for-the-badge" />
 </p>
 
 ---
@@ -141,41 +156,41 @@ A smart correction utility that fixes typing errors caused by finger misalignmen
 
 ## 💼 Experience
 
-### Cybernaut LLP
-
-Hands-on experience in real-world software development and practical problem-solving.
-
 ### Temprl Business Pvt Ltd
 
-Built internal tools and worked on automation-focused development tasks.
+**May 2025 – August 2025**
+
+Built backend workflow systems and microservice-based tools that reduced manual operational work and improved internal efficiency by approximately **40%**.
+
+Gained hands-on experience in **scalable backend systems**, workflow automation, and real-world software architecture.
 
 ---
 
 ## 🏆 Achievements
 
-* 🥇 **1st Prize** — MEPCO Hackathon
-* 🥈 **3rd Prize** — Trinity Hack
-* 🥇 **1st Prize** — ERUPTA Coding Event
-
-Participated in **3 events** and won in all 3 — a big confidence boost and a reminder that consistent effort pays off.
+* 🏆 Selected among **Top 5 teams** in a **national-level ODOO Hackathon** for building an E-Learning platform in **24 hours**
+* 🥇 **1st Place** — MEPCO Hackathon
+* 🥇 **1st Place** — ERUPTA Coding Contest
+* 🥉 **3rd Place** — Trinity Hackathon
+* 🚀 Selected among **Top 5 teams** in **Smart India Hackathon 2025**
 
 ---
 
 ## 📍 2026 Goals
 
 * Strengthen **DSA** and coding fundamentals
-* Land a strong **AI/ML internship**
-* Build more **production-grade products**
+* Land a strong **AI/ML or LLM-focused internship**
+* Build more **production-grade AI products**
 * Contribute to **open source**
-* Grow into a sharper **product engineer**
+* Grow into a sharper **AI Engineer + Product Builder**
 
 ---
 
 ## ✨ Fun Facts
 
-* I enjoy turning ideas into tools that feel useful
+* I enjoy turning ideas into useful tools
 * I like learning by building, not just reading
-* I’m drawn to startup ideas and product thinking
+* I’m deeply interested in **AI, automation, and product engineering**
 * I’m curious about how systems work behind the scenes
 
 ---
@@ -189,9 +204,6 @@ Participated in **3 events** and won in all 3 — a big confidence boost and a r
 </a>
 <a href="https://www.linkedin.com/in/sukeshd/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge" />
 </a>
 <a href="https://github.com/sukeshofficial">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
