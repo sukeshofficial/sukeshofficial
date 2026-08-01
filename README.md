@@ -12,6 +12,10 @@ I build real-world products with **LLMs, backend systems, automation, and full-s
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=sukeshofficial&label=Profile%20Views&color=A855F7&style=for-the-badge)
+
+---
+
 ## ✦ What I Build
 
 I like working at the intersection of:
