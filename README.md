@@ -8,11 +8,9 @@ I build real-world products with **LLMs, backend systems, automation, and full-s
 
 > *Turning ideas into useful, scalable, and intelligent software.*
 
-</div>
-
----
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sukeshofficial&label=Profile%20Views&color=A855F7&style=for-the-badge)
+</div>
 
 ---
 
